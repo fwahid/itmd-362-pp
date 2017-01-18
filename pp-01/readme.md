@@ -14,7 +14,7 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
 
    If you choose SSH (preferable), you must have set up your private/public key pair with GitHub.
    You’ll then be able to clone this way, using your actual GitHub username where this example says
-   USERNAME:
+   USERNAME: fwahid
 
     $ git clone git@github.com:USERNAME/itmd-362-pp.git
 
@@ -27,7 +27,7 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
    should now have this file, `readme.md` on your local computer. Open the file in your editor,
    and write below the URL to your fork of the GitHub repository, and the add and commit:
 
-   My Production Problems repository URL:
+   My Production Problems repository URL: https://github.com/fwahid/itmd-362-pp
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 
