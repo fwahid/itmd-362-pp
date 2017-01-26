@@ -36,10 +36,10 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
 
     $ git remote add instructor https://github.com/profstolley/itmd-362-pp.git
     
-    instructor      https://github.com/profstolley/itmd-362-pp.git (fetch)
-    instructor      https://github.com/profstolley/itmd-362-pp.git (push)
-    origin  https://github.com/fwahid/itmd-362-pp.git (fetch)
-    origin  https://github.com/fwahid/itmd-362-pp.git (push)
+    instructor  https://github.com/profstolley/itmd-362-pp.git (fetch)
+    instructor  https://github.com/profstolley/itmd-362-pp.git (push)
+    origin      https://github.com/fwahid/itmd-362-pp.git (fetch)
+    origin      https://github.com/fwahid/itmd-362-pp.git (push)
 
 
    Once you have done that, you can run the command `git remote -v` and it should list two remotes,
