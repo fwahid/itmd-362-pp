@@ -13,13 +13,13 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Font Size/Spacing Is Easy to Read
+2. Very few links
+3. Content is scannable
+4. Headings are clear/concise
+5. Good first impression
+6. Links/checkboxes are easily clickable
+7. Relevant images
+8. Pages aren't cluttered
+9. HTML Page Titles Are Explanatory
+10.Clean color palette
