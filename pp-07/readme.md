@@ -36,4 +36,6 @@ Small commits to your Production Problems repository that include:
   user wouldn't get annoyed.
 
 * HCI Guidline Three (URL): https://msdn.microsoft.com/library/windows/desktop/dn742399.aspx
-* How you implemented it in your sketch: 
+* How you implemented it in your sketch: For controls, we want to only have 2 buttons in order to make it ass simplistic as possible.
+  The two buttons are pretty straight-forward. If you click the DROP COURSE button, your current schedule comes up and there are 
+  check boxes next to your courses. Clicking on them allows you to select the classes you want to drop. 
