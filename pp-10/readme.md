@@ -13,3 +13,10 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`pp-10/`)
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+I use this app very often at work since I constantly look at my employees' schedules. What I hated about it is the two-step verification process each time you log in. It seems a bit redundant and annoying. I also ddin't like the color palette. 
+I wanted the lgin page to be condensed with just an employee id and password. I also wanted a button for Management overides for clock-ins. 
+
+HTML: Add form elements and change a few element names. Add company logo.
+CSS: Fix padding and color palette. Hover States. Mobile first approach.
+JavaScript: Allow to input password without verification. If password is forgotten, then require verfication. 
